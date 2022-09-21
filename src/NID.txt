@@ -1,0 +1,8 @@
+//pour enregistrer le dessin utiliser le local storage ou les cookies
+
+FEATURES : 
+ - rond
+ - carré
+ - polygone
+ - couleur
+ -
